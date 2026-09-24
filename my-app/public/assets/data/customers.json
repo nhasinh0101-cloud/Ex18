@@ -1,0 +1,49 @@
+[
+  {
+    "CustomerTypeId": 1,
+    "CustomerTypeName": "VIP",
+    "Customers": [
+      {
+        "Id": "Cus123",
+        "Name": "Obama",
+        "Email": "obama@gmail.com",
+        "Age": 67,
+        "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj0q01L0BYuYT8oDSlkIRKQ6dPJq82vDhHgSmre4Bg3w&s=10"
+      },
+      {
+        "Id": "Cus456",
+        "Name": "Kim Jong Un",
+        "Email": "unun@gmail.com",
+        "Age": 38,
+        "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCrdbt1Ix3cE83BHAzzPpGpsk-oNiC6WpzcX4OQ-Wg8Q&s=10"
+      },
+      {
+        "Id": "Cus789",
+        "Name": "Putin",
+        "Email": "putin@gmail.com",
+        "Age": 77,
+        "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf-7N-xPLr8dQsPcPPwaBVyetWiA_ZYTD2dM6VRIwI7A&s=10"
+      }
+    ]
+  },
+  {
+    "CustomerTypeId": 2,
+    "CustomerTypeName": "Normal",
+    "Customers": [
+      {
+        "Id": "Cus000",
+        "Name": "Hồ Cẩm Đào",
+        "Email": "hodoa@gmail.com",
+        "Age": 16,
+        "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwGE2YEd4qejygPfYz9BC-QO1g-LeLRUIzl1xhn7V66w&s=10"
+      },
+      {
+        "Id": "Cus111",
+        "Name": "Hồ Chí Minh",
+        "Email": "hochiminh@gmail.com",
+        "Age": 67,
+        "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy8Pq4KX0xWkn5AXM-UpCJs7AEl8AMqvH0tiMxFUSLEQ&s=10"
+      }
+    ]
+  }
+]
